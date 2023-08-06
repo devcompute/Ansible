@@ -15,7 +15,7 @@ This repository is a group of Ansible projects that demonstrate my skills with t
 
 - **Application Deployment:** Streamlining the deployment process and using playbooks and roles to deploy various applications like web servers, databases, and web applications. 
 
-- **Continuous Integration and Deployment (CI/CD):** Automating the building, testing, and deployment of applications. Seeing how it integrates with other tools for efficient software development workflows.
+- **Continuous Integration and Deployment (CI/CD):** Automating the building, testing, and deployment of applications; integration with other tools for efficient software development workflows.
 
 - **Security Automation:** Prioritize security with Ansible playbooks that automate tasks like managing firewall rules, user access, and applying security patches. Maintain a robust and secure infrastructure effortlessly.
 
