@@ -3,7 +3,7 @@
 Welcome to my Ansible Projects repository! 
 
 
-This repository is a group of various Ansible projects that demonstrate my skills with the Ansible automation tool. Each project focuses on different aspects of infrastructure management, configuration, and deployment.
+This repository is a group of Ansible projects that demonstrate my skills with the automation tool. Each project focuses on different aspects of infrastructure management, configuration, and deployment.
 
 
 
