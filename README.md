@@ -14,6 +14,4 @@ Welcome to my Ansible Projects repository! This repository is a collection of va
 
 - **Continuous Integration and Deployment (CI/CD):** Experience Ansible's versatility in automating the building, testing, and deployment of applications. See how it integrates with other tools for efficient software development workflows.
 
-- **Disaster Recovery and Backup:** Be prepared for emergencies with Ansible playbooks for disaster recovery scenarios and automated backup processes. Ensure data safety and quick recovery when the unexpected happens.
-
 - **Security Automation:** Prioritize security with Ansible playbooks that automate tasks like managing firewall rules, user access, and applying security patches. Maintain a robust and secure infrastructure effortlessly.
