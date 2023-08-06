@@ -11,7 +11,7 @@ This repository is a group of Ansible projects that demonstrate my skills with t
 
 - **Infrastructure Provisioning:** Explore playbooks and roles that automate the provisioning of virtual machines, networks, and cloud resources. Quickly set up test environments or deploy production-ready infrastructures with ease.
 
-- **Configuration Management:** Dive into the power of Ansible for configuration management. Discover playbooks that configure software, services, and system settings on remote hosts, ensuring consistency across multiple servers.
+- **Configuration Management:** Configure playbooks that configure software, services, and system settings on remote hosts, ensuring consistency across multiple servers.
 
 - **Application Deployment:** Witness how Ansible streamlines the deployment process. Find playbooks and roles to deploy various applications like web servers, databases, and web applications. 
 
