@@ -13,7 +13,7 @@ This repository is a group of Ansible projects that demonstrate my skills with t
 
 - **Configuration Management:** Playbooks that configure software, services, and system settings on remote hosts, ensuring consistency across multiple servers.
 
-- **Application Deployment:** Witness how Ansible streamlines the deployment process. Find playbooks and roles to deploy various applications like web servers, databases, and web applications. 
+- **Application Deployment:** Streamlining deployment process and using playbooks and roles to deploy various applications like web servers, databases, and web applications. 
 
 - **Continuous Integration and Deployment (CI/CD):** Experience Ansible's versatility in automating the building, testing, and deployment of applications. See how it integrates with other tools for efficient software development workflows.
 
